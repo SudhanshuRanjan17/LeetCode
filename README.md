@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/0502-ipo/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0396-rotate-function/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
