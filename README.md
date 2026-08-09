@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1052-grumpy-bookstore-owner/) | Medium |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0790-domino-and-tromino-tiling](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -1178,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
@@ -1444,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -1490,4 +1495,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
