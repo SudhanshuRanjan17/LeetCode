@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1510-stone-game-iv](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -1101,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
@@ -1472,6 +1475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
