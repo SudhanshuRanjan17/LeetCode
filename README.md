@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/Go/Hard/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3225-maximum-score-from-grid-operations/) | Hard |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/Go/Hard/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1391,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -1431,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1520,6 +1525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Iterator
