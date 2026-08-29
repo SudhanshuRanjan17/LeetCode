@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -1403,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Number Theory
