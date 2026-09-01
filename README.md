@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -968,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Stack
@@ -1352,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1461,6 +1465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
