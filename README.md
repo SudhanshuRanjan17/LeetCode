@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0763-partition-labels](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
@@ -1127,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0790-domino-and-tromino-tiling](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
