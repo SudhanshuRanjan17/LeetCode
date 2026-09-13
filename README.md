@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
+| [0835-image-overlap](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0874-walking-robot-simulation/) | Medium |
@@ -959,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0289-game-of-life/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0835-image-overlap](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
