@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2833-furthest-point-from-origin/) | Easy |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -1051,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -1161,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2463-minimum-total-distance-traveled/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
