@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1510-stone-game-iv](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -1159,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -1263,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
@@ -1589,6 +1592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
