@@ -16,3 +16,4 @@ class Solution:
 
         # Check if the point lies inside or on the circle
         return distance_squared <= radius * radius
+        
