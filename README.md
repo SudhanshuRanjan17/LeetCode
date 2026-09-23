@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -770,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1657-determine-if-two-strings-are-close/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
@@ -1230,6 +1233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1284,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1871-jump-game-vii/) | Medium |
