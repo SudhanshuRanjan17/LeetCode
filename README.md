@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0443-string-compression/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0763-partition-labels](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0796-rotate-string/) | Easy |
@@ -1044,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/0502-ipo/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
@@ -1176,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0788-rotated-digits/) | Medium |
@@ -1673,6 +1677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
