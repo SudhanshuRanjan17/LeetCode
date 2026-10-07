@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0383-ransom-note/) | Easy |
@@ -1297,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1409,6 +1411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0433-minimum-genetic-mutation/) | Medium |
