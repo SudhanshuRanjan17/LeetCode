@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1110,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2542-maximum-subsequence-score](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -1558,6 +1561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
