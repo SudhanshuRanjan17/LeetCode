@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
