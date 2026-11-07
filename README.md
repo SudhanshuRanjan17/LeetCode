@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2336-smallest-number-in-infinite-set/) | Medium |
