@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0383-ransom-note/) | Easy |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -1463,6 +1466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1517,6 +1521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
@@ -1580,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
