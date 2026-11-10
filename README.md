@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -1319,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
