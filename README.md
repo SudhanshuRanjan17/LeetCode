@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SudhanshuRanjan17/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
